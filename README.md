@@ -6,7 +6,7 @@ The goal of the project was to predict the **final yeast biomass concentration**
 
 ---
 
-## 📂 Repository Contents  
+## Repository Contents  
 
 - **PLS_assignment_description.pdf**  
   Original assignment description provided by the professor, detailing the problem and dataset structure.  
@@ -28,7 +28,7 @@ The goal of the project was to predict the **final yeast biomass concentration**
 
 ---
 
-## 🚀 How to Run  
+## How to Run  
 
 1. Open `lavrenchuk_MLfPE_PLS.m` in MATLAB.  
 2. Load the dataset (`PLS_dataset.mat`).  
@@ -37,7 +37,7 @@ The goal of the project was to predict the **final yeast biomass concentration**
 
 ---
 
-## 📊 Project Summary  
+## Project Summary  
 
 - Developed a PLS regression model for predicting yeast biomass concentration.  
 - Worked with multidimensional batch process data collected online under NOC (normal operating conditions).  
@@ -46,7 +46,7 @@ The goal of the project was to predict the **final yeast biomass concentration**
 
 ---
 
-## 📚 Acknowledgements  
+## Acknowledgements  
 
 - Course: *SP25 Machine Learning for Process Engineering*  
 - Instructor: Prof. Pierantonio Facco  
