@@ -6,7 +6,7 @@ The goal of the project was to predict the **final yeast biomass concentration**
 
 ---
 
-## 📂 Repository Contents  
+## Repository Contents  
 
 - **PLS_assignment_description.pdf**  
   Original assignment description provided by the professor, detailing the problem and dataset structure.  
@@ -28,7 +28,7 @@ The goal of the project was to predict the **final yeast biomass concentration**
 
 ---
 
-## 📊 Dataset  
+## Dataset  
 
 The dataset consists of **online process variables** (measured during fermentation) and a **quality variable** (final biomass concentration).  
 
@@ -50,7 +50,7 @@ The dataset consists of **online process variables** (measured during fermentati
 
 ---
 
-## 🚀 How to Run  
+## How to Run  
 
 1. Open `lavrenchuk_MLfPE_PLS.m` in MATLAB.  
 2. Load the dataset (`PLS_dataset.mat`).  
@@ -59,7 +59,7 @@ The dataset consists of **online process variables** (measured during fermentati
 
 ---
 
-## 📚 Acknowledgements  
+## Acknowledgements  
 
 - Course: *SP25 Machine Learning for Process Engineering*  
 - Instructor: Prof. Pierantonio Facco  
