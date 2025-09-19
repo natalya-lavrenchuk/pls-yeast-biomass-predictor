@@ -6,7 +6,7 @@ The goal of the project was to predict the **final yeast biomass concentration**
 
 ---
 
-## Repository Contents  
+## 📂 Repository Contents  
 
 - **PLS_assignment_description.pdf**  
   Original assignment description provided by the professor, detailing the problem and dataset structure.  
@@ -28,7 +28,29 @@ The goal of the project was to predict the **final yeast biomass concentration**
 
 ---
 
-## How to Run  
+## 📊 Dataset  
+
+The dataset consists of **online process variables** (measured during fermentation) and a **quality variable** (final biomass concentration).  
+
+### Online Process Variables
+| # | Variable Name     | Units |
+|---|------------------|-------|
+| 1 | Glucose          | g/L   |
+| 2 | Pyruvate         | g/L   |
+| 3 | Acetaldehyde     | g/L   |
+| 4 | Acetate          | g/L   |
+| 5 | Ethanol          | g/L   |
+| 6 | Active cells     | g/L   |
+| 7 | Protein activity | g/g   |
+
+### Quality Variable
+| # | Variable Name | Units |
+|---|---------------|-------|
+| 1 | Biomass       | g/L   |
+
+---
+
+## 🚀 How to Run  
 
 1. Open `lavrenchuk_MLfPE_PLS.m` in MATLAB.  
 2. Load the dataset (`PLS_dataset.mat`).  
@@ -37,16 +59,7 @@ The goal of the project was to predict the **final yeast biomass concentration**
 
 ---
 
-## Project Summary  
-
-- Developed a PLS regression model for predicting yeast biomass concentration.  
-- Worked with multidimensional batch process data collected online under NOC (normal operating conditions).  
-- Compared calibration vs. validation batches for assessing predictive performance.  
-- Results and analysis are included in the final report (`report_MLfPE_PLS.pdf`).  
-
----
-
-## Acknowledgements  
+## 📚 Acknowledgements  
 
 - Course: *SP25 Machine Learning for Process Engineering*  
 - Instructor: Prof. Pierantonio Facco  
